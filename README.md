@@ -3,7 +3,7 @@
 An interactive timeline of Intel's sustainability milestones, built to work in
 both left-to-right and right-to-left languages and tested for accessibility.
 
-**[View the live site →](https://emcuberos1.github.io/intel-sustainability-timeline/)**
+**[View the live site →](https://emcuberos1.github.io/Intel-Sustainability-Timeline/)**
 
 ## Features
 
@@ -32,3 +32,10 @@ The obvious way to reveal extra detail on hover is to overlay it on the card,
 which hides the title and date the user was just reading. These cards instead
 expand downward into the space below the hovered card, so the detail appears
 without anything disappearing.
+
+## Scope
+
+This is a demonstration page built as a course project, not a live Intel site.
+The "Learn More" links in the three-column section are intentional
+placeholders — the content beside them is real, but there is no destination
+for them to lead to.
